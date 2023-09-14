@@ -1,0 +1,2 @@
+# codingprojeck
+praktikum komputasi
